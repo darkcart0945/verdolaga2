@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class AngelNonbre : MonoBehaviour
+public class AngelNombre : MonoBehaviour
 {
     public string Nombre = "Angel Luis";
     // Start is called once before the first execution of Update after the MonoBehaviour is created
